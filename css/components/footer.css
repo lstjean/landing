@@ -1,0 +1,32 @@
+
+.footer {
+  background: black;
+  height: 150px;
+  padding: 20px 0px;
+  text-align: center;
+
+
+}
+
+.footer-social {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+
+}
+
+.footer-social li a {
+  margin: 0px 20px;
+  font-size: 40px;
+  text-decoration: none;
+  color: #3ac162;
+}
+
+.footer-social a:hover {
+  color: rgba(255,255,255,.7);
+}
+
+.footer p {
+  text-align: center;
+  color: rgba(255,255,255,.7);
+}
